@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>rgbColor</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>CodeBlock</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>[UIColor colorWithRed:&lt;#CGFloat#&gt;/255.0 green:&lt;#(CGFloat)#&gt;/255.0 blue:&lt;#(CGFloat)#&gt;/255.0 alpha:&lt;#(CGFloat)#&gt;]</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>EEF19676-6652-42A4-8555-A797AC6CFD75</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>用red、green、blue初始化颜色</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>UIColor RGB Create</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
